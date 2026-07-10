@@ -66,7 +66,7 @@ CREATE TABLE task_ledger (
 ## Background Reading
 
 - [Building a Master Agent That Orchestrates Your AI Agent Ecosystem](https://medium.com/@wl8380/building-a-master-agent-that-orchestrates-your-ai-agent-ecosystem-4568bbdfbf82?sk=326379d03ef8670bffca517fd22dc5e5)
-- [Why Your AI Agents Need a Task Ledger Database](https://medium.com/p/631cc462d3ca)
+- [Why Your AI Agents Need a Task Ledger Database](https://medium.com/@wl8380/why-your-ai-agents-need-a-task-ledger-database-631cc462d3ca?sk=bc7da2fc618a010012260bd4e7a2ec6c)
 
 ## License
 
